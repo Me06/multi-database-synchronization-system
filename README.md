@@ -151,6 +151,6 @@ or
 --Advanced performance monitoring dashboards
 
 📄 License
---his project is intended for educational and research purposes.
+--This project is intended for educational and research purposes.
 **
 ```
